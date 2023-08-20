@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.37)
+cmake_minimum_required(VERSION 3.13)
 project(nightwatch)
 
 set(CMAKE_SYSTEM_PROCESSOR arm)
